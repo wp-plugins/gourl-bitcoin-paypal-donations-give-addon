@@ -3,7 +3,7 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl Bitcoin Paypal Donations - Give Addon
 Plugin URI: https://gourl.io/bitcoin-donations-wordpress-plugin.html
 Author URI: https://gourl.io 
-Tags: bitcoin, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, paypal, bitcoin donations, bitcoin donation, charity, churches, commerce, crowdfunding, donate, donation, donations, e-commerce, ecommerce, fundraiser, fundraising, gifts, giving, non-profit, nonprofit, paypal, reporting, reports, stripe, give, wordpress donations, wordpress ecommerce, litecoin, dogecoin, paycoin, reddcoin, speedcoin, darkcoin, potcoin, feathercoin, vertcoin, vericoin
+Tags: bitcoin, bitcoins, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, paypal, bitcoin donations, bitcoin donation, charity, churches, crowdfunding, donate, donation, donations, fundraiser, fundraising, gifts, giving, non-profit, nonprofit, paypal, stripe, give, wordpress donations, wordpress ecommerce, litecoin, dogecoin, paycoin, reddcoin, speedcoin, darkcoin, potcoin, feathercoin, vertcoin, vericoin
 Requires at least: 3.5
 Tested up to: 4.2
 Stable Tag: 1.0.0
