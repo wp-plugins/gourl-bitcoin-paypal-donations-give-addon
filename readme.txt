@@ -64,6 +64,12 @@ In the search field type "GoUrl Donation" and click Search Plugins. Once you've 
 * Activate the "GoUrl Give Bitcoin Donations Addon"
 
 
+= Requirements =
+
+Please note you need to install also - 
+
+* [GoUrl Wordpress Plugin with Payment Gateway](https://wordpress.org/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/)
+* [Give Wordpress Donation Plugin](https://wordpress.org/plugins/give/)
 
 
 == Screenshots ==
@@ -82,5 +88,3 @@ In the search field type "GoUrl Donation" and click Search Plugins. Once you've 
 
 = 1.0.0 =
 Initial Release
-     
- 
