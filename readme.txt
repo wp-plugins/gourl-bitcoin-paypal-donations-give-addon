@@ -6,7 +6,7 @@ Author URI: https://gourl.io
 Tags: bitcoin, bitcoins, bitcoin payment, bitcoin payments, gourl, cryptocurrency, btc, coinbase, bitpay, paypal, bitcoin donations, bitcoin donation, charity, churches, crowdfunding, donate, donation, donations, fundraiser, fundraising, gifts, giving, non-profit, nonprofit, paypal, stripe, give, wordpress donations, litecoin, dogecoin, paycoin, reddcoin, speedcoin, dash, potcoin, feathercoin, vertcoin, vericoin, peercoin
 Requires at least: 3.5
 Tested up to: 4.2
-Stable Tag: 1.1.0
+Stable Tag: 1.1.1
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,12 +20,13 @@ See [Screenshots](https://gourl.io/bitcoin-donations-wordpress-plugin.html#scree
 Wordpress Donation Plugin Features -
 
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/Bitcoin-Paypal-Donations-Wordpress)
-* Provides Bitcoin/Altcoin Payment Gateway for [Give 0.8.5 or higher](https://wordpress.org/plugins/give/)
+* Provides Bitcoin/Altcoin Payment Gateway for [Give 0.8 or higher](https://wordpress.org/plugins/give/)
 * Paypal, GoUrl, Authorize.net, Paymill, Stripe payment gateways
 * Accept Bitcoin, Litecoin, Paycoin, Dogecoin, Dash, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Vericoin, Peercoin donations
 * Direct Integration on your site, no external payment pages opens
 * Fully customizable plugin, full statistics, easy to use
 * No Chargebacks, Global, Secure. All in automatic mode
+* If you intend plugin to be used in a language other than English, see the [Language Translations page](https://gourl.io/languages.html)
 * [Free Tech Support](https://gourl.io/view/contact/Contact_Us.html) for You
 
 
@@ -88,11 +89,15 @@ In the search field type "GoUrl Donation" and click Search Plugins. Once you've 
 
 == Changelog ==
 
+= 1.1.1 =
+Localisation - You can easy change/localize any text in plugin
+
 = 1.1.0 =
-Added Peercoin
-Spanish payment box localisation
+* Add Peercoin [PPC] cryptocurrency
+* Add Spanish Payment Box translation
                       
 = 1.0.0 =
 Initial Release
- 
+   
   
+ 
